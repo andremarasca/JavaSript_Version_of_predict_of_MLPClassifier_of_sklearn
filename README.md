@@ -1,0 +1,2 @@
+# JavasSript_Version_of_predict_of_MLPClassifier_of_sklearn
+ Vanilla JavaScript code without dependencies from sklearn's MLPClassifier predictor function
